@@ -29,3 +29,6 @@ $boost=4,site=radiofrance.fr
 $boost=1,site=siecledigital.fr
 $boost=2,site=numerama.com
 $boost=3,site=fr.wikipedia.org
+$boost=2,site=www.abondance.com
+$boost=2,site=searchengineland.com
+$boost=2,site=www.searchenginejournal.com
