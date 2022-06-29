@@ -15,7 +15,8 @@ $discard=2,site=leparisien.fr
 $discard=2,site=la-croix.com
 $discard=4,site=humanite.fr
 $discard=2,site=lefigaro.fr
-	
+$discard=2,site=/codespromo/$site=brave.com
+
 
 ! Boost well-known sites
 $boost=4,site=francetvinfo.fr
@@ -28,4 +29,4 @@ $boost=4,site=france24.com
 $boost=4,site=radiofrance.fr
 $boost=1,site=siecledigital.fr
 $boost=2,site=numerama.com
-$boost=4,site=lemonde.fr/codespromo
+
