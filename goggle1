@@ -1,0 +1,16 @@
+! name: testly
+	! description: My test is to test it
+	! author: Testy my test
+	! public: true
+
+
+
+	! Discard results for re-ranking below
+	$discard=4,site=pinterest.com
+	
+
+	! Boost well-known sites
+	$boost=4,site=facebook.com
+
+
+
