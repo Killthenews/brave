@@ -22,10 +22,9 @@ $discard=2,site=lefigaro.fr
 $boost=4,site=francetvinfo.fr
 $boost=4,site=courrierinternational.com
 $boost=4,site=fr.euronews.com
-$boost=4,site=euronews.com
 $boost=4,site=reuters.com
 $boost=4,site=afp.com
-$boost=4,site=france24.com
+$boost=4,site=france24.com/fr
 $boost=4,site=radiofrance.fr
 $boost=1,site=siecledigital.fr
 $boost=2,site=numerama.com
