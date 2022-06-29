@@ -9,6 +9,7 @@
 
 ! Discard results for re-ranking below
 $discard=4,site=pinterest.com
+$discard=4,site=pinterest.fr
 	
 
 ! Boost well-known sites
