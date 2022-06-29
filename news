@@ -19,7 +19,6 @@ $discard=2,site=lemonde.fr/codespromo/
 	
 
 ! Boost well-known sites
-$boost=4,site=lemonde.fr
 $boost=4,site=francetvinfo.fr
 $boost=4,site=courrierinternational.com
 $boost=4,site=fr.euronews.com
