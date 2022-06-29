@@ -10,7 +10,7 @@
 ! Discard results for re-ranking below
 $discard=4,site=msn.com
 $discard=4,site=lopinion.fr
-$discard=4,site=.liberation.fr
+$discard=4,site=liberation.fr
 $discard=2,site=leparisien.fr
 $discard=2,site=la-croix.com
 $discard=4,site=humanite.fr
