@@ -1,6 +1,6 @@
-! name: testly
-! description: My test is to test it
-! author: Testy my test
+! name: news
+! description: My best news sources
+! author: Newsy
 ! public: true
 ! avatar: #53B0EB
 ! issues: https://github.com/Killthenews/brave/issues
