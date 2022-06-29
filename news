@@ -15,7 +15,7 @@ $discard=2,site=leparisien.fr
 $discard=2,site=la-croix.com
 $discard=4,site=humanite.fr
 $discard=2,site=lefigaro.fr
-$discard=2,site=lemonde.fr/codespromo
+$discard=2,site=lemonde.fr/codespromo/
 	
 
 ! Boost well-known sites
