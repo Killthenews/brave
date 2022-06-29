@@ -22,7 +22,7 @@ $discard=2,site=lefigaro.fr
 $boost=4,site=francetvinfo.fr
 $boost=4,site=courrierinternational.com
 $boost=4,site=fr.euronews.com
-$boost=4,site=reuters.com
+$boost=2,site=reuters.com
 $boost=4,site=afp.com
 /fr/$boost=4,site=france24.com
 $boost=4,site=radiofrance.fr
@@ -30,5 +30,5 @@ $boost=1,site=siecledigital.fr
 $boost=2,site=numerama.com
 $boost=3,site=fr.wikipedia.org
 $boost=2,site=www.abondance.com
-$boost=2,site=searchengineland.com
+$boost=3,site=searchengineland.com
 $boost=2,site=www.searchenginejournal.com
