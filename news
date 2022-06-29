@@ -1,0 +1,28 @@
+! name: testly
+! description: My test is to test it
+! author: Testy my test
+! public: true
+! avatar: #53B0EB
+! issues: https://github.com/Killthenews/brave/issues
+
+
+
+! Discard results for re-ranking below
+$discard=4,site=msn.com
+$discard=4,site=lopinion.fr
+$discard=4,site=.liberation.fr
+$discard=2,site=leparisien.fr
+$discard=2,site=la-croix.com
+$discard=4,site=humanite.fr
+$discard=2,site=lefigaro.fr
+	
+
+! Boost well-known sites
+$boost=4,site=lemonde.fr
+$boost=4,site=francetvinfo.fr
+$boost=4,site=courrierinternational.com
+$boost=4,site=fr.euronews.com
+$boost=4,site=euronews.com
+$boost=4,site=reuters.com
+$boost=4,site=afp.com
+$boost=4,site=france24.com
